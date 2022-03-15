@@ -1,2 +1,2 @@
-# craaps
-Coach Rib Aarhus
+# Craaps
+Coach Rib Aarhus ApS.
