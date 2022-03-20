@@ -1,5 +1,5 @@
 # Site settings
-baseurl = "/"
+baseurl = "https://craaps.dk"
 languageCode = "en-us"
 title = "Coach Rib Aarhus"
 theme = "syna"
