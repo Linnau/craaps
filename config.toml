@@ -115,4 +115,4 @@ lastmod = ["lastmod", ":git", "date"]
   weight = 20
   name = "linkedin"
   pre = "fab fa-linkedin-in"
-  url = "#"
+  url = "https://www.linkedin.com/company/craaps/"
