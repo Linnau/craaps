@@ -10,14 +10,14 @@ title = "Contact"
 subtitle  = "Send a question"
 
 # PostURL can be used with backends such as mailout from caddy
-post_url = "https://fabform.io/f/02DKpKm"
-email = "allan.linnau+fabform@gmail.com"
+post_url = "https://formspree.io/f/mwkyrdlb" #formspree account
+email = "allan.linnau+formspree@gmail.com"
 button = "Send Button" # defaults to theme default
 #netlify = false
 
 # Optional google captcha
-#[recaptcha]
-#  sitekey = ""
+[recaptcha]
+  sitekey = "6LfpKosfAAAAACyMP5e8sBdTKyi7Rl5jpDa8ezqm"
 
 [message]
   #success = "" # defaults to theme default
