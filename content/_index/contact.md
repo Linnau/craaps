@@ -15,9 +15,9 @@ email = "allan.linnau+formspree@gmail.com"
 button = "Send Button" # defaults to theme default
 #netlify = false
 
-# Optional google captcha
+# Optional (invisible) google captcha
 [recaptcha]
-  sitekey = "6LfpKosfAAAAACyMP5e8sBdTKyi7Rl5jpDa8ezqm"
+  sitekey = "6LdCLosfAAAAAPMv8vSGIi-NfSvdO2GJbtLIc0e2"
 
 [message]
   #success = "" # defaults to theme default
