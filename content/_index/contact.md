@@ -14,6 +14,7 @@ post_url = "https://formspree.io/f/mwkyrdlb" #formspree account
 #email = ""
 button = "Send Button" # defaults to theme default
 #netlify = false
+recapthca = true
 
 # Optional (invisible) google captcha
 [recaptcha]
