@@ -11,7 +11,7 @@ subtitle  = "Send a question"
 
 # PostURL can be used with backends such as mailout from caddy
 post_url = "https://formspree.io/f/mwkyrdlb" #formspree account
-#email = ""
+email = "no_reply" #needed to set has.formspree variable.
 button = "Send Button" # defaults to theme default
 netlify = false
 recapthca = true
