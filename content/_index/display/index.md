@@ -3,7 +3,7 @@ date = "2022-04-27"
 fragment = "portfolio"
 #disabled = false
 weight = 100
-background = "dark"
+background = "secondary"
 
 #title = "Test"
 #subtitle = "Test Test"

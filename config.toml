@@ -82,7 +82,7 @@ lastmod = ["lastmod", ":git", "date"]
 
 [[menu.footer]]
   url = "/boat"
-  name = "Boat specs."
+  name = "The Boat"
   weight = 10
 
 [[menu.footer]]
