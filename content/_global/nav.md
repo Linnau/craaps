@@ -3,7 +3,7 @@ fragment = "nav"
 #disabled = true
 date = "2018-05-17"
 weight = 0
-background = "light"
+background = "secondary"
 
 #[repo_button]
 #  url = "https://github.com/okkur/syna"
