@@ -3,12 +3,13 @@ fragment = "hero"
 #disabled = true
 date = "2016-09-07"
 weight = 50
-background = "light" # can influence the text color
-particles = false
-minHeight = "500px"
+background = "dark" # can influence the text color
 
-#title = "Coach Rib Aarhus"
-#subtitle = "Rent a Rib"
+particles = false
+minHeight = "800px"
+
+title = "Coach Rib Aarhus - Speed boat rental service !"
+subtitle = ""
 
 [header]
   image = "header.jpg"

@@ -86,9 +86,9 @@ lastmod = ["lastmod", ":git", "date"]
   weight = 10
 
 [[menu.footer]]
-url = "/gallery"
-name = "Gallery"
-weight = 20
+  url = "/gallery"
+  name = "Gallery"
+  weight = 20
 
 [[menu.footer]]
   url = "/prices"
