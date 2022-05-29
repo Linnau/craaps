@@ -2,6 +2,6 @@
 weight = 10
 
 [asset]
-  image = "001.jpeg"
+  image = "yellow_l.jpg"
   #url = "#"
 +++
