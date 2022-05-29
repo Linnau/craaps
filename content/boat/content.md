@@ -22,7 +22,7 @@ Perfect for:
 
 Previous rentals include SailGP, 49'er/49FX championships, Dinghy races etc.
 
-#### Yellow
+#### Yellow (The Bee)
 The boat is a 2-seater, **High-Performance Tornado RIB 5.4** from 2018. Complete with a **100HP/75kW Mercury 4-stroke engine** (*the maximum allowed*).<BR>
 Equipped with an attachable ladder, anchor and options for Water Skiing, Wakeboards etc. this can be a fun boat as well as practical.
 
