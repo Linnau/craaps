@@ -20,7 +20,7 @@ subtitle = "Bareboat charter"
 <p>Unless other arrangements have been confirmed separately the following schedule applies</p>
 
 **a.** Initial Deposit: 30% of the charter fee, which confirms booking;<br>
-**b.** Remaining 70% of the charter fee and payment for any add-on options due 45 days before embarkation.<br>
+**b.** Remaining 70% of the charter fee and payment for any add-on options before embarkation.<br>
 
 #### 3. Boat Delivery
 
