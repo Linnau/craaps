@@ -85,10 +85,10 @@ lastmod = ["lastmod", ":git", "date"]
   name = "Prices"
   weight = 40
 
-[[menu.main]]
-  url = "#contact"
-  name = "Contact"
-  weight = 50
+# [[menu.main]]
+#   url = "#contact"
+#   name = "Contact"
+#   weight = 50
 
 [[menu.footer]]
   url = "/boat"

@@ -1,4 +1,4 @@
-+++
+<!-- +++
 fragment = "contact"
 #disabled = true
 date = "2017-09-10"
@@ -49,4 +49,4 @@ recapthca = true
 [[fields.hidden]]
   name = "someID"
   value = "example.com"
-+++
++++ -->
