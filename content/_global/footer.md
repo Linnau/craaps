@@ -20,4 +20,4 @@ Bondehaven 14<br/>
 8541 Skødstrup, Denmark<br/>
 T: +45 2154 8230
 T: +45 2046 7758</br>
-E: w0szli43<span style="display:none">foo</span>@duck.com
+E: linnau<span style="display:none">foo</span>@duck.com
