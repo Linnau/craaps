@@ -10,7 +10,7 @@ subtitle = "Boat Specifications"
 #title_align = "left" # Default is center, can be left, right or center
 +++
 
-We have a number of boats available for rental. All boats are field-proven Tornado High-Performance RIBs.
+We have a number of boats available for service. All boats are field-proven Tornado High-Performance RIBs.
 
 Perfect for:
 * Coaching
